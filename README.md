@@ -1,4 +1,4 @@
-
+![Uploading itc.gif…]()
 # Introduction to Computer Engineering - Lab
 Introduction to Computer Engineering (01076101), Computer Engineering 60 at KMITL.
 

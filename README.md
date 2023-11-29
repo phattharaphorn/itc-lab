@@ -1,6 +1,6 @@
-<picture>
-<div style="width:100%;height:0;padding-bottom:71%;position:relative;"><iframe src="https://giphy.com/embed/mFDWuDppjQJjite6FS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/arduinocc-arduino-petscii-ailadi-mFDWuDppjQJjite6FS">via GIPHY</a></p>
-</picture>
+<p align="center">
+ <img src="https://media.giphy.com/media/mFDWuDppjQJjite6FS/giphy.gif" alt="Arduino gif"/>
+</p>
 
 # Introduction to Computer Engineering - Lab
 Introduction to Computer Engineering (01076101), Computer Engineering 60 at KMITL.
@@ -18,4 +18,3 @@ This class will use the **Arduino microcontroller board to build hardware projec
 - [Lab 7 Mini Clock](lab-7)
 - [Lab 8 FreeRTOS1](lab-8)
 - [Lab 9 FreeRTOS2](lab-9)
-

@@ -5,7 +5,7 @@
 # Introduction to Computer Engineering - Lab
 Introduction to Computer Engineering (01076101), Computer Engineering 60 at KMITL.
 
-> Introduction to computer Engineering roles - hardware and software use the **Arduino microcontroller board to build hardware project.**
+> Introduction to Computer Engineering roles - hardware and software use the **Arduino microcontroller board to build hardware project.**
 
 ## List for All Lab
 - [Lab 1 Charlieplexing](lab-1)
